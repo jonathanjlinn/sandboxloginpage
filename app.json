@@ -1,6 +1,6 @@
 {
-  "name": "My Domain Sample",
-  "description": "A simple example to brand your Salesforce My Domain",
+  "name": "Gas South Login Page",
+  "description": "Gas South's Custom Login Page for your Salesforce My Domain",
   "repository": "https://github.com/salesforceidentity/MyDomain-Sample",
   "website": "https://www.salesforce.com/platform/identity",
   "logo": "https://login.salesforce.com/logos/Salesforce/Salesforce/logo.png",  
